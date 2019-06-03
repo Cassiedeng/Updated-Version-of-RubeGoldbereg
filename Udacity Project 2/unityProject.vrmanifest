@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.udacityproject2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\My Unity projects\\Udacity Project 2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Udacity Project 2 [Testing]"
+        }
+      }
+    }
+  ]
+}
